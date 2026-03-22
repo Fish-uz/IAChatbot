@@ -1,0 +1,10 @@
+venv
+.env
+mis_documentos
+sistema.log
+.vscode
+__pycache__/
+*.pyc
+.tmp.drivedownload
+.tmp.driveupload
+sistema.log
